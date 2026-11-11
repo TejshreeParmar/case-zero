@@ -6,6 +6,20 @@
 
 Instead of simply fixing bugs, players step into the role of an investigator, using logical thinking and Java programming skills to solve increasingly challenging missions.
 
+## Game Screenshots
+
+### Main Menu
+![CASE ZERO Main Menu](screenshots/main-menu.png)
+
+### Detective Office
+![Detective Office](screenshots/detective-office.png)
+
+### Java Clues
+![Java Clues](screenshots/java-clues.png)
+
+### Java Mission
+![Java Mission](screenshots/java-mission.png)
+
 ## Features
 
 - **20 Java Missions** — Progress through coding challenges ranging from beginner to advanced concepts.
